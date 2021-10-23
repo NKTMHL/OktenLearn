@@ -1,0 +1,30 @@
+:root {
+    --color_light__grey: #d9d9d9;
+    --color_dark__grey: #a3a3a3;
+}
+
+* {
+    margin: 0;
+    border: 0;
+}
+
+
+
+.d-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 1000px;
+    border: 5px solid var(--color_dark__grey)
+    padding: 5px;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+
+.header {
+    height: 150px;
+    background-color: var(--color_light__grey);
+}
