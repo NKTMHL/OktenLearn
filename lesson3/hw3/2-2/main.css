@@ -1,0 +1,27 @@
+.block1 {
+    height: 2000px;
+    width: auto;
+}
+.main_color {
+    background: royalblue;
+}
+.scnd_color {
+    background: blue;
+    height: 80%;
+    width: 30%;
+}
+.widgets {
+    height: 20%;
+    width: auto;
+}
+.block2 {
+    height: 30%;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.contact {
+    height: 50%;
+    width: auto;
+}
