@@ -1,0 +1,51 @@
+body {
+    scroll-behavior: smooth;
+    background: cornsilk;
+}
+
+.head {
+    text-align: center;
+    color: blue;
+}
+
+.low_head {
+    text-align: center;
+    background: #431a8e;
+}
+
+.lowlow_head {
+    text-align: center;
+    background: #8a3b3b;
+}
+
+p{
+    color: grey;
+    font-size: 12px;
+    text-align: justify;
+}
+
+ul {
+    font-size: 20px;
+    list-style: none;
+    text-align: center;
+}
+
+ol{
+    font-size: 12px;
+    list-style: none;
+}
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #020217;
+}
+
+a:hover {
+    color: gold;
+    font-size: 30px;
+}
+
+img {
+    border: 2px solid red;
+}

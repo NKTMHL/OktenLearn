@@ -1,0 +1,63 @@
+.header {
+    text-align: center;
+    color: blue;
+    height: 60px;
+}
+.header:hover {
+    font-size: 40px;
+    transition: 1.5s;
+}
+h2 {
+    text-align: center;
+}
+.description {
+    background: gray;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 9px -9px 13px cornflowerblue;
+}
+.block1 {
+    display: flex;
+    justify-content: space-around;
+    height: auto;
+}
+.scnd_description {
+    background: #4848bb;
+    font-size: 10px;
+    width: 33.3%;
+    box-shadow: 9px -9px 13px gray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+.queen {
+    width: 33.3%;
+    height: 44.4%;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 9px -9px 13px gray;
+}
+.albums {
+    text-align: center;
+    list-style: none;
+    text-decoration: none;
+    width: 33.3%;
+    font-size: 20px;
+    background: #887070;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 9px -9px 13px gray;
+}
+a:hover {
+    font-size: 30px;
+    text-decoration: none;
+    color: gold;
+    transition: 1s;
+}
+li {
+    list-style: none;
+}
