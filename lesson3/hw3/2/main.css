@@ -1,0 +1,36 @@
+.block1 {
+    background: gray;
+    width: auto;
+    height: 1400px;
+}
+#header {
+    background: blue;
+    width: auto;
+    height: 15%;
+}
+#nav {
+    background: darkblue;
+    width: auto;
+    height: 10%;
+}
+.block2 {
+    background: silver;
+    width: auto;
+    height: 75%;
+    display: flex;
+}
+#main {
+    background: dodgerblue;
+    height: 100%;
+    width: 80%;
+}
+.aside {
+    background: royalblue;
+    height: 100%;
+    width: 20%;
+}
+#footer {
+    background: cornflowerblue;
+    height: 10%;
+    width: auto;
+}
