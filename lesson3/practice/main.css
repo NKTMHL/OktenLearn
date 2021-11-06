@@ -1,0 +1,21 @@
+.wrap {
+    background: gray;
+    width: 1600px;
+    height: 700px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    /*flex-direction: column-reverse;*/
+    flex-wrap: wrap;
+}
+.box {
+    flex-basis: 200px;
+    /*width: 300px;*/
+    height: 200px;
+}
+.a {
+    background: silver;
+}
+.b {
+    background: cornflowerblue;
+}
