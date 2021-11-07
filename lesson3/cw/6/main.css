@@ -1,0 +1,35 @@
+.header {
+    height: 800px;
+    display: flex;
+    column-gap: 20px;
+}
+.header_c_h {
+    height: 800px;
+    background: blue;
+}
+.indent {
+    flex-grow: 1;
+}
+.footer_c_h {
+    background: darkblue;
+    height: 500px;
+}
+.ltr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+}
+.kabobs {
+    background: blue;
+    height: 500px;
+    margin: 20px 0 20px 0;
+}
+.footer {
+    display: flex;
+    column-gap: 20px;
+}
+.w {
+    width: 1200px;
+}
