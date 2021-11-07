@@ -1,0 +1,48 @@
+body {
+    box-sizing: border-box;
+}
+.block1 {
+    height: 1000px;
+    width: auto;
+}
+.a {
+    background: silver;
+    height: 33%;
+    width: auto;
+    margin-bottom: 5px;
+}
+.block2 {
+    height: 66%;
+    width: auto;
+    display: flex;
+}
+.left_block3 {
+    height: 100%;
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+}
+.left_block4 {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.left_block5 {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+ }
+.ltr {
+    background: silver;
+    height: 97%;
+    width: 32%;
+    margin: 5px;
+}
+.h {
+    background: silver;
+    height: 99%;
+    width: 25%;
+    margin: 3px;
+}
